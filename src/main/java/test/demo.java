@@ -7,5 +7,6 @@ public class demo {
         System.out.println("999" );
         System.out.println("555" );
         System.out.println("master test!" );
+        System.out.println("hot-fix test!" );
     }
 }
